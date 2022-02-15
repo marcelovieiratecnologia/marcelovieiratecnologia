@@ -36,7 +36,6 @@
 
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovieiratecnologia&layout=compact&theme=dark)](https://github.com/marcelovieiratecnologia/github-readme-stats)
-
 </div>
 
 
@@ -45,7 +44,6 @@
 📫 Como falar comigo **marcelovieiratecnologia@gmail.com**
 
 </div>
-##
 <h3 align="center">Conecte-se comigo:</h3>
  <p align="left">
   <div align="center">
