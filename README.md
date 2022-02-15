@@ -35,14 +35,18 @@
 </br>
 
 <div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovieiratecnologia&layout=compact&theme=dark)](https://github.com/marcelovieiratecnologia/github-readme-stats)
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovieiratecnologia&layout=compact&theme=dracula) 
+ 
 </div>
 
 
-<div align="center">
- 
+<div align="center"> 
 📫 Como falar comigo **marcelovieiratecnologia@gmail.com**
-
+ </br>
+ 
 </div>
 <h3 align="center">Conecte-se comigo:</h3>
  <p align="left">
@@ -109,6 +113,6 @@
 </div>
 
 ##
- 💼 Hoje trabalho com Delphi;Python;Laravel.
+ 💼 Hoje trabalho com Delphi;Python.
 ##
- 📘 Estudando Python;Django;Laravel.
+ 📘 Estudando Python;Django.
