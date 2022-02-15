@@ -9,13 +9,19 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-   <img src=""/>-->
-   <img src="https://img.shields.io/badge/python-2.7-green"/>
-   <img src="https://img.shields.io/badge/python-3.6-orange"/>
-   <img src="https://img.shields.io/badge/python-3.7-blue"/>
+   <img src=""/>
+  </span>
+ </div>
+</br>-->
+
+<div align="center">
+  <span>
+   <img src="https://img.shields.io/badge/Python-2.7%20--%203.6%20--%203.8-blue"/>
   </span>
  </div>
 </br>
+
+
 <div align="center">
   <span>
      <img src="https://img.shields.io/badge/Django-3.1.3-brightgreen"/>
@@ -25,9 +31,7 @@
 
 <div align="center">
   <span>
-     <img src="https://img.shields.io/badge/Delphi-XE10-lightgrey"/>
-     <img src="https://img.shields.io/badge/Delphi-XE7-lightgrey"/>
-     <img src="https://img.shields.io/badge/Delphi-XE3-lightgrey"/>
+     <img src="https://img.shields.io/badge/Delphi-XE3%20--%20XE7%20--%20XE10%20-green"/>
  </span>
  </div>
 </br>
