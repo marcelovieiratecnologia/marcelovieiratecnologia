@@ -1,49 +1,38 @@
 <h1 align="center">Seja muito bem vindo ao meu perfil 👋</h1>
 <h3 align="center">Um Generalista, mas com foco em ser um especialista</h3>
-
+<!-- 
  <div align="center">
   <span>
-
-   <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
    <img src=""/>
   </span>
- </div>
-</br>-->
-
+ </div>-->
+</br>
 <div align="center">
   <span>
    <img src="https://img.shields.io/badge/Python-2.7%20--%203.6%20--%203.8-blue"/>
   </span>
  </div>
-</br>
-
-
 <div align="center">
   <span>
      <img src="https://img.shields.io/badge/Django-3.1.3-brightgreen"/>
  </span>
  </div>
-</br>
-
 <div align="center">
   <span>
      <img src="https://img.shields.io/badge/Delphi-XE3%20--%20XE7%20--%20XE10%20-green"/>
  </span>
  </div>
-</br>
 <div align="center">
   <span>
      <img src="https://img.shields.io/badge/Relat%C3%B3rios-Quick%20Reports%20--%20Rave%20Reports%20--%20Fast%20Reports%20--%20Jasper%20Reports-yellow"/>
  </span>
  </div>
 </br>
-
-
-
 
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovieiratecnologia&layout=compact&theme=dark)](https://github.com/marcelovieiratecnologia/github-readme-stats)
