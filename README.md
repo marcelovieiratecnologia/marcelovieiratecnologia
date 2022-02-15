@@ -10,6 +10,8 @@
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>-->
    <img src="https://img.shields.io/badge/python-2.7-green"/>
+   <img src="https://img.shields.io/badge/python-3.6-orange"/>
+   <img src="https://img.shields.io/badge/python-3.7-blue"/>
   </span>
  </div>
 </br>
