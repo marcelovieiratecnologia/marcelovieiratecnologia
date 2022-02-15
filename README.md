@@ -31,10 +31,17 @@
  </span>
  </div>
 </br>
+<div align="center">
+  <span>
+     <img src="https://img.shields.io/badge/Relat%C3%B3rios-Quick%20Reports%20--%20Rave%20Reports%20--%20Fast%20Reports%20--%20Jasper%20Reports-yellow"/>
+ </span>
+ </div>
+</br>
+
+
 
 
 <div align="center">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovieiratecnologia&layout=compact&theme=dark)](https://github.com/marcelovieiratecnologia/github-readme-stats)
 
 </div>
