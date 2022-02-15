@@ -38,8 +38,6 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovieiratecnologia&layout=compact&theme=dark)](https://github.com/marcelovieiratecnologia/github-readme-stats)
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovieiratecnologia&layout=compact&theme=dracula) 
- 
 </div>
 
 
